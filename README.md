@@ -58,7 +58,7 @@ Secure login with hashed passwords
 Message validation
 
 📸 Screenshots
-
+![Image](https://github.com/user-attachments/assets/64b3a549-3594-4211-aa3b-b65bf6cf9eaa)
 
 🛠️ Tools & Technologies
 Python (sockets, threading)
